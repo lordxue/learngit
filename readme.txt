@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch quick and simple.
 add merge.
 modified readme.
+/usr/bin/env.
