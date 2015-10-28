@@ -1,1 +1,2 @@
-import "hello"
+#!/usr/bin/env python
+print("hello!)
