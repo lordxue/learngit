@@ -1,1 +1,2 @@
-import "hello"
+#-*_coding:utf-8 -*-
+print("hello,world.")
